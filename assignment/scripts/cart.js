@@ -78,6 +78,8 @@ function isFull() {
   }
 }
 
+//// COMMENT:  should be basket.length < maxItems although basket < maxItems still worked with automatic testing
+
 // // Test isFull()
 // console.log('Testing isFull():');
 // addItem('Apple');
